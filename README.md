@@ -5,6 +5,6 @@
 -->
 
 - 🔭 I’m currently loking for a job
-- 🌱 I’m currently learning NodeJS,React 
+- 🌱 I’m currently learning Angular 
 - 📫 How to reach me: d.rivas05.dr@gmail.com
 
